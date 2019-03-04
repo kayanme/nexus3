@@ -1,1 +1,1 @@
-# nexus3
+This source for buildind nexus-oss repository with R packages support.
